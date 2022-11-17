@@ -104,4 +104,12 @@ footer {
   text-shadow: 2px 2px 2px chocolate;
 }
 
+.redes a {
+  color: #000;
+}
+.redes a .redes a :hover {
+  color: #333;
+  text-shadow: 0 0 5px #333;
+}
+
 /*# sourceMappingURL=estilos.css.map */
