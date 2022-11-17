@@ -39,11 +39,12 @@ nav{
 .item{
     width: 100%;
     border: 2px solid #000;
-    .item:hover{
-        transform: scale(1.05);
-        transition: all 1s;
-    }
 }
+.item:hover{
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
 
 h2{
     padding: 20px;
