@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+main {
+  height: 100vh;
+  width: 100%;
+  background-image: url(img/hangers-g8a676475b_1920.jpg);
+  background-position: cover;
+}
+
+/*# sourceMappingURL=estilos.css.map */
