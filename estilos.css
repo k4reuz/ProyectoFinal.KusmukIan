@@ -12,4 +12,15 @@ main {
   background-position: cover;
 }
 
+nav {
+  background-image: url(img/navbarfoto.jpeg);
+  background-size: cover;
+  font-family: "Times New Roman", Times, serif;
+}
+nav li a {
+  color: chocolate !important;
+  text-shadow: 2px 2px #000;
+  font-size: 35px;
+}
+
 /*# sourceMappingURL=estilos.css.map */
