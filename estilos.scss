@@ -99,11 +99,13 @@ footer {
     text-shadow: 2px 2px 2px chocolate;
 }
 
-.redes a{
-    color: #000;
-    .redes a :hover{
+.redes {
+    a{
+        color: #000;
+    }
+    a :hover{
         color: #333;
-        text-shadow: 0 0 5px #333;
+        text-shadow: 0 0 5px chocolate;
     }
 }
 

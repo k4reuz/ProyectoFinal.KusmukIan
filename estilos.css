@@ -107,9 +107,9 @@ footer {
 .redes a {
   color: #000;
 }
-.redes a .redes a :hover {
+.redes a :hover {
   color: #333;
-  text-shadow: 0 0 5px #333;
+  text-shadow: 0 0 5px chocolate;
 }
 
 @media only screen and (min-width: 350px) {
