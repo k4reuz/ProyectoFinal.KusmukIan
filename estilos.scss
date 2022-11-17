@@ -21,4 +21,17 @@ nav{
         text-shadow: 2px 2px #000;
         font-size: 35px;
     }
+    li a:hover{
+        text-decoration: underline !important;
+    }
+}
+
+.galeria{
+    background-image: url(img/carusel1.jpg);
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(3,200px);
+    grid-gap: 20px;
+    padding: 20px;
+    width: 100%;
 }
