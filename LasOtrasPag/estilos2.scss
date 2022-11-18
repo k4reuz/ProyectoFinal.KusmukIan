@@ -26,6 +26,10 @@ nav{
     }
 }
 
+.container{
+    padding: 35px;
+}
+
 .galeria{
     background-image: url(../img/carusel1.jpg);
     display: grid;
@@ -162,5 +166,9 @@ footer {
         font-size: 30px;
         background-size: cover;
         background-position: center;
+    }
+    .container{
+        width: 960px;
+        height: 700px;
     }
 }
