@@ -165,4 +165,8 @@ footer {
     background-size: cover;
     background-position: center;
   }
+  .container {
+    width: 960px;
+    height: 700px;
+  }
 }/*# sourceMappingURL=estilos.css.map */
