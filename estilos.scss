@@ -18,7 +18,7 @@ nav{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     li a{
         color: chocolate !important;
-        text-shadow: 2px 2px #000;
+        text-shadow: 2px 0 0 #000;
         font-size: 35px;
     }
     li a:hover{
@@ -96,7 +96,7 @@ h2:hover{
 
 footer {
     text-align: center;
-    background-image: url(img/navbarfoto.jpeg);
+    background-image: url(img/header.jpg);
     background-size: cover;
     font-size: 25px;
     text-transform: capitalize;
