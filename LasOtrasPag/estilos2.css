@@ -97,6 +97,43 @@ h2 h2:hover {
   background-position: center;
 }
 
+/*imagenes de mujeres.html*/
+.item7 {
+  background-image: url(../img/camperaRosaM.jpeg);
+  background-size: cover;
+  background-position: center;
+}
+
+.item8 {
+  background-image: url(../img/zapatillaVerdeM.jpeg);
+  background-size: cover;
+  background-position: center;
+}
+
+.item9 {
+  background-image: url(../img/RemeraHM.jpeg);
+  background-size: cover;
+  background-position: center;
+}
+
+.item10 {
+  background-image: url(../img/zapatillanikeM.jepg.webp);
+  background-size: cover;
+  background-position: center;
+}
+
+.item11 {
+  background-image: url(../img/zapatillanikeMRosa.jpeg);
+  background-size: cover;
+  background-position: center;
+}
+
+.item12 {
+  background-image: url(../img/camperacelesteM.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
 footer {
   text-align: center;
   background-image: url(../img/header.jpg);
@@ -129,6 +166,9 @@ footer {
     grid-template-columns: 1fr 1fr;
     grid-template-rows: repeat(3, 150px);
   }
+  main {
+    height: 50vh;
+  }
 }
 @media only screen and (min-width: 480px) {
   nav li a {
@@ -150,6 +190,9 @@ footer {
   }
   footer {
     font-size: 30px;
+  }
+  main {
+    height: 100vh;
   }
 }
 @media only screen and (min-width: 1200px) {
