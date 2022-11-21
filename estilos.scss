@@ -13,9 +13,9 @@ main{
 }
 
 nav{
-    background-image: url(img/navbarfoto.jpeg);
+    background-image: url(img/header.jpg);
     background-size: cover;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     li a{
         color: chocolate !important;
         text-shadow: 2px 2px #000;
@@ -56,9 +56,11 @@ h2{
     text-align: center;
     text-shadow: 2px 2px rgba(136, 124, 124, 0.808);
     font-family: 'Times New Roman', Times, serif;
-    h2:hover{
-        text-decoration: underline;
-    }
+}
+h2:hover{
+    text-decoration: underline;
+    letter-spacing: 3px;
+    text-overflow: 2px 2px 2px chocolate;
 }
 
 .item1{
