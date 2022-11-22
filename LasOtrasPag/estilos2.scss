@@ -148,12 +148,6 @@ footer {
     }
 }
 
-
-h3{
-    text-align: center;
-    padding: 25px;
-    text-shadow: 2px 2px #333;
-}
 .formulario{
     font-family: 'Roboto', sans-serif;
     font-family: 'Ubuntu', sans-serif;
@@ -167,6 +161,10 @@ iframe{
     height: 450px;
 }
 
+#video{
+    text-align: center;
+    padding: 40px 40px;
+}
 
 @media only screen and (min-width:350px){
     nav li a{
@@ -189,6 +187,10 @@ iframe{
     .formulario{
         max-height: 10vh;
         padding: 10px;
+    }
+    #video{
+        width: 100%;
+        padding: 0;
     }
 }
 
